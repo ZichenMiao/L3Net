@@ -1,8 +1,7 @@
-# Demo for the 'Up/Down Wind' experiment in section 3 
+# Graph Neural Networks with Low-rank Learnable Local Filters (Code for experiments in Section 3)
 
 ## Requirements
 pytorch==1.3.1
-
 numpy==1.18.1
 
 ## Usage
