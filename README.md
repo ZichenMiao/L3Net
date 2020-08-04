@@ -2,6 +2,7 @@
 
 ## Requirements
 pytorch==1.3.1
+
 numpy==1.18.1
 
 ## Usage
