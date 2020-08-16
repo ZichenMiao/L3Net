@@ -3,6 +3,7 @@
 
 This toy example aims to show our l3gnn's expressiveness of extract discriminative features on graph to classify 'up wind' pattern against 'down wind' pattern.</font>
 
+![up_down_wind](./up_down_wind.png)
 ## Requirements
 pytorch==1.3.1
 
