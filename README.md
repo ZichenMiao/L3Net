@@ -1,4 +1,7 @@
-# Graph Neural Networks with Low-rank Learnable Local Filters (Code for experiments in Section 3)
+# Graph Neural Networks with Low-rank Learnable Local Filters 
+<font size=4>This repo is code for the toy example 'up/down wind' in section 3 of our paper: **Graph Neural Networks with Low-rank Learnable Local Filters** [(paper link)](https://arxiv.org/abs/2008.01818)
+
+This toy example aims to show our l3gnn's expressiveness of extract discriminative features on graph to classify 'up wind' pattern against 'down wind' pattern.</font>
 
 ## Requirements
 pytorch==1.3.1
