@@ -1,5 +1,5 @@
 # Graph Convolution with Low-rank Learnable Local Filters
-<font size=4>This repo is code for the toy example 'up/down wind' in section 3 of our paper: **Graph Convolution with Low-rank Learnable Local Filters** [(paper link)](https://arxiv.org/abs/2008.01818)
+<font size=4>This repo is code for the toy example 'up/down wind' in section 3 of our paper: **Graph Convolution with Low-rank Learnable Local Filters** [(paper link)](https://openreview.net/forum?id=9OHFhefeB86)
 
 This toy example aims to show our l3gnn's expressiveness of extract discriminative features on graph to classify 'up wind' pattern against 'down wind' pattern.</font>
 
